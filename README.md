@@ -1,5 +1,7 @@
 # Agenda Tugas Siswa
 
+Repository GitHub: https://github.com/laudiahmad9-cmd/TP6_MiniProject_LaudiAhmad
+
 ## Latar Belakang dan Masalah
 
 Siswa membutuhkan pencatatan tugas sederhana agar tugas dapat ditambah, dicari, diubah statusnya, disimpan, dan dipulihkan.

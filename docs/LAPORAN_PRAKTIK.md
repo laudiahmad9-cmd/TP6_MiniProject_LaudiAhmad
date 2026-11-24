@@ -6,6 +6,7 @@
 - Kelas: XI RPL
 - Kode Jobsheet: JS-006-MOPROG-TP6
 - Proyek: TP6_MiniProject_LaudiAhmad
+- Repository: https://github.com/laudiahmad9-cmd/TP6_MiniProject_LaudiAhmad
 
 ## Ringkasan
 
