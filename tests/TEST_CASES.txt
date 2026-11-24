@@ -1,0 +1,12 @@
+TC01 tanpa berkas: daftar kosong dan menu terbuka.
+TC02 tambah T01: tugas ditambahkan.
+TC03 duplikat T01: ditolak.
+TC04 judul kosong: ditolak.
+TC05 cari T01: ditemukan.
+TC06 cari T999: tidak ditemukan.
+TC07 ubah status T01: status berubah.
+TC08 pilihan huruf: pilihan tidak tersedia.
+TC09 simpan lalu muat: data tersedia kembali.
+TC10 record rusak: dilewati.
+TC11 hapus T01: berhasil.
+TC12 filter selesai/belum: sesuai status.

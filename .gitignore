@@ -1,0 +1,8 @@
+out/
+*.jar
+*.class
+*.tmp
+.idea/
+*.log
+agenda_tugas_tp6.txt
+data/
