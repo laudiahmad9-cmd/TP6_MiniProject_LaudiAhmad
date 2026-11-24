@@ -28,4 +28,16 @@ class TugasService(private val daftar: MutableList<Tugas>) {
         return true
     }
 
+    fun hapus(id: String): Boolean {
+        val tugas = cari(id) ?: return false
+        return daftar.remove(tugas)
+    }
+
+    fun filter(selesai: Boolean): List<Tugas> =
+        daftar.filter { it.selesai == selesai }
+
+    fun statistik(): String {
+        val jumlahSelesai = daftar.count { it.selesai }
+        return "Total=${daftar.size}, Selesai=$jumlahSelesai, Belum=${daftar.size - jumlahSelesai}"
+    }
 }
